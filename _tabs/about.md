@@ -1,5 +1,5 @@
 ---
-# the default layout is 'page'
+# The default layout is 'page.'
 icon: fas fa-info-circle
 order: 4
 ---
@@ -34,7 +34,7 @@ Hello, I'm Akhil Chaudhary, a dedicated AI researcher based in Canada. I special
 ### Current Research
 - **Research Assistant, Cape Breton University** (January 2023 - Present)
   - Leading research to **increase transparency in Large Language Models (LLMs) using advanced Deep Learning and Knowledge Graphs**, improving information retrieval accuracy by **25%**.
-  - Actively contributing to the development of more efficient data systems, **co-authoring several influential papers** in the field.
+  - Actively contributing to developing more efficient data systems, **co-authoring several influential papers** in the field.
 
 ### Teaching Experience
 - **Sessional Instructor, Cape Breton University** (January 2024 - Present)
