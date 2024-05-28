@@ -8,4 +8,3 @@ group :test do
   gem "html-proofer", "~> 5.0"
 end
 
-$ bundle lock --add-platform x86_64-linux
