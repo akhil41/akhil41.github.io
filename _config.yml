@@ -16,14 +16,14 @@ timezone: America/Halifax
 
 title: Akhil Chaudhary # the main title
 
-tagline: Bridging Minds and Machines Through Innovative Research. # it will display as the sub-title
+tagline: Bridging Minds and Machines. # it will display as the sub-title
 
 description: Welcome! I'm Akhil Chaudhary, a dedicated researcher in the field of Data Science and Artificial Intelligence, based in Canada. My research primarily revolves around enhancing transparency and explainability in machine learning through advanced techniques in NLP, computer vision, and deep learning. At Dalhousie University, I developed the 'Top2Label' framework for explainable zero-shot topic labeling using knowledge graphs, advancing NLP benchmarks significantly. Currently, as a Research Assistant at Cape Breton University, I lead initiatives that integrate structured knowledge and unstructured data to create more efficient and comprehensible AI systems. My work, presented at top-tier conferences and detailed in several high-impact publications, aims to bridge the gap between academic research and practical AI applications.
 # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "akhilchaudhary.me"
+url: "https://akhilchaudhary.me"
 
 github:
   username: akhil41 # change to your github username
