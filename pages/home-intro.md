@@ -62,15 +62,15 @@ permalink: /home-intro/
   />
 </div>
 <div class="top-buttons">
-    <a href="#" class="btn btn-outline-primary">💬 NLP</a>
-    <a href="#" class="btn btn-outline-primary">🕸️ KG</a>
-    <a href="#" class="btn btn-outline-primary">Reasoning</a>
-    <a href="#" class="btn btn-outline-primary">⚙️ Modeling</a>
-    <a href="#" class="btn btn-outline-primary">🤓 ML Concepts</a>
-    <a href="#" class="btn btn-outline-primary">🤯 DL Concepts</a>
-    <a href="#" class="btn btn-outline-primary">🗂️ Multimodel</a>
-    <a href="#" class="btn btn-outline-primary">🚁 ML Ops</a>
-    <a href="#" class="btn btn-outline-primary">🪛 Tool Recommendations</a>
+    <a href="/tags/nlp/" class="btn btn-outline-primary">💬 NLP</a>
+    <a href="/tags/kg/" class="btn btn-outline-primary">🕸️ KG</a>
+    <a href="/tags/reasoning/" class="btn btn-outline-primary">Reasoning</a>
+    <a href="/tags/modeling/" class="btn btn-outline-primary">⚙️ Modeling</a>
+    <a href="/tags/ml/" class="btn btn-outline-primary">🤓 ML Concepts</a>
+    <a href="/tags/dl/" class="btn btn-outline-primary">🤯 DL Concepts</a>
+    <a href="/tags/multimodel/" class="btn btn-outline-primary">🗂️ Multimodel</a>
+    <a href="/tags/mlops/" class="btn btn-outline-primary">🚁 ML Ops</a>
+    <a href="/tags/tools/" class="btn btn-outline-primary">🪛 Tool Recommendations</a>
   </div>
 
 </div>
@@ -220,7 +220,7 @@ My interests include reasoning, explainability, information reitrieval, natural 
           <img src="https://www.cbu.ca/wp-content/uploads/2020/06/CBU-ShieldLogo_orange.png" alt="CBU Logo" />
         </div>
         <div class="timeline-description">
-          <p><strong>Research Assistant and Sessional Instructor</strong> at <a href="https://www.cbu.ca" target="_blank">Cape Breton University</a></p>
+          <p><strong>Research Fellow and Sessional Instructor</strong> at <a href="https://www.cbu.ca" target="_blank">Cape Breton University</a></p>
           <p>Teaching and conducting research in Explainable AI, Knowledge Graphs, and usability of LLMs in structured data.</p>
         </div>
       </div>
@@ -234,7 +234,7 @@ My interests include reasoning, explainability, information reitrieval, natural 
           <img src="https://static.wixstatic.com/media/4a2ba4_11cfa91de04f4a3884d6e455bc317929~mv2.png/v1/crop/x_77,y_7,w_913,h_272/fill/w_544,h_162,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Gyan%20Logo.png" alt="Gyan AI Logo" />
         </div>
         <div class="timeline-description">
-          <p><strong>ML Project Manager</strong> at <a href="https://www.gyan.ai" target="_blank">Gyan AI</a></p>
+          <p><strong>Data Scientist</strong> at <a href="https://www.gyan.ai" target="_blank">Gyan AI</a></p>
           <p>Led Knowledge Graph-based explainable LLM research and backend development for university ERP systems.</p>
         </div>
       </div>
@@ -248,7 +248,7 @@ My interests include reasoning, explainability, information reitrieval, natural 
           <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Dalhousie_University_Seal.svg/300px-Dalhousie_University_Seal.svg.png" alt="Dalhousie Logo" />
         </div>
         <div class="timeline-description">
-          <p><strong>Master's in Computer Science</strong> at <a href="https://www.dal.ca" target="_blank">Dalhousie University</a></p>
+          <p><strong>Research Assistant</strong> at <a href="https://www.dal.ca" target="_blank">Dalhousie University</a></p>
           <p>Thesis: Top2Label - Explainable Zero-Shot Topic Labelling Using Knowledge Graphs.</p>
         </div>
       </div>
